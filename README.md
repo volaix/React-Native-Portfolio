@@ -1,4 +1,6 @@
-This will be a list of some screens I've made (IN PROGRESS)
+(In Progress)
+This will be a list of some screens I've made.
+A new screen every day for 30 days!
 
 # Sign in screens
 
