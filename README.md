@@ -1,4 +1,4 @@
-This is a list of some work I've done
+This will be a list of some screens I've made (IN PROGRESS)
 
 # Sign in screens
 
