@@ -9,8 +9,9 @@ A new screen every day for 30 days!
   <img src="https://user-images.githubusercontent.com/16506248/35502604-7bbf0a22-0518-11e8-8e15-8e3e3fa3c127.gif" />
 </div>
 <br /><br />
-* Left: https://github.com/volaix/portfolio-rn-signin02
-* Right: https://github.com/volaix/portfolio-rn-signin
+
+* TravelX: https://github.com/volaix/portfolio-rn-signin02
+* SignUp: https://github.com/volaix/portfolio-rn-signin
 
 # Profile Screens
 <div style="display: flex; flex-direction: row; margin-bottom: 50px">
